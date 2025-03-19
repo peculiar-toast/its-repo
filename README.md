@@ -20,3 +20,5 @@ Il progetto consiste nello sviluppo di un sistema di gestione di una libreria, c
 
 ## Conclusioni
 Questo progetto offre un'opportunità per esplorare i concetti di eredità, interfacce e polimorfismo in Java, nonché per sviluppare un'applicazione pratica per la gestione di una libreria.
+
+Readme modificato
